@@ -12,11 +12,14 @@ and the Flutter guide for
 -->
 
 # Hakari
+![Logo](https://github.com/obutora/hakari/assets/24934672/f39aa2e2-fc47-43e3-ae9e-431ef8925c0e)
 Simple & Cool Benchmarking Library for Dart 🚀
 
-<img width="454" alt="image" src="https://github.com/obutora/hakari/assets/24934672/fc14deb4-9353-4def-bf9c-2cce0547bda3">
+
 
 A package that allows you to easily benchmark the execution speed of your code in Dart. Along with beautifully formatted bar charts, it is possible to compare execution speeds intuitively.
+
+<img width="454" alt="image" src="https://github.com/obutora/hakari/assets/24934672/fc14deb4-9353-4def-bf9c-2cce0547bda3">
 
 ## Features
 
