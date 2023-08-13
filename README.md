@@ -1,22 +1,9 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
-
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
-
 # Hakari
 ![Logo](https://github.com/obutora/hakari/assets/24934672/f39aa2e2-fc47-43e3-ae9e-431ef8925c0e)
 
 **Simple & Cool Benchmarking Library for Dart 🚀**
 
-
+[pub.dev](https://pub.dev/packages/hakari)
 
 A package that allows you to easily benchmark the execution speed of your code in Dart. Along with beautifully formatted bar charts, it is possible to compare execution speeds intuitively.
 
