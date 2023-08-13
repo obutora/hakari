@@ -1,6 +1,6 @@
 name: hakari
 description: Simple & Cool Benchmark Tool for Dart.
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/obutora/hakari
 
 environment:
