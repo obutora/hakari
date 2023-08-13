@@ -31,7 +31,7 @@ flutter pub add hakari
 final list = List.generate(100000, (index) => index);
 
 final group = Group(
-  name: 'explore fast dart loop.',
+  name: 'Exploring fast loops in Dart.',
   benches: [
     Bench('loop', () async {
       var count = 0;
