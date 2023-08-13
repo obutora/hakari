@@ -13,6 +13,7 @@ and the Flutter guide for
 
 # Hakari
 ![Logo](https://github.com/obutora/hakari/assets/24934672/f39aa2e2-fc47-43e3-ae9e-431ef8925c0e)
+
 Simple & Cool Benchmarking Library for Dart 🚀
 
 
