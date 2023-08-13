@@ -27,7 +27,9 @@ flutter pub add hakari
 ## Usage
 
 ```dart
-final list = List.generate(100000, (index) => index
+
+final list = List.generate(100000, (index) => index);
+
 final group = Group(
   name: 'explore fast dart loop.',
   benches: [
