@@ -22,6 +22,9 @@ A package that allows you to easily benchmark the execution speed of your code i
 
 <img width="454" alt="image" src="https://github.com/obutora/hakari/assets/24934672/fc14deb4-9353-4def-bf9c-2cce0547bda3">
 
+
+
+
 ## Features
 
 - Measure code execution time in micro/milliseconds
@@ -110,3 +113,9 @@ Why contribute?
 4. Run the tests to ensure no issues arise.
 5. Commit your changes and create a Pull Request (PR).
 6. Clearly describe the rationale and details of your changes in the PR description.
+
+## Acknowledgements
+
+We'd like to express our sincere gratitude to the [mitata](https://github.com/evanwashere/mitata) project. 
+
+Hakari was significantly inspired by its concepts and methodologies.The contributions and innovations of the [mitata](https://github.com/evanwashere/mitata) community have played a pivotal role in shaping our package. We truly appreciate their dedication to open-source and their role in advancing the Dart ecosystem.
