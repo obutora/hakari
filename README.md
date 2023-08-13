@@ -7,9 +7,7 @@
 
 A package that allows you to easily benchmark the execution speed of your code in Dart. Along with beautifully formatted bar charts, it is possible to compare execution speeds intuitively.
 
-<img alt="image" src="https://github.com/obutora/hakari/assets/24934672/fc14deb4-9353-4def-bf9c-2cce0547bda3">
-
-
+<img alt="image" src="https://github.com/obutora/hakari/assets/24934672/36c74875-1c3d-4a4f-9ca9-17e3276dda1e">
 
 
 ## Features
