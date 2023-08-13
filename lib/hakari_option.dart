@@ -11,7 +11,7 @@ class HakariOption {
   ///
   /// you can use [0-255].
   ///
-  /// default is [20] = [green]
+  /// default is [10] = [green]
   ///
   /// https://pub.dev/packages/ansicolor
   final int emphasisAnsiColor;
@@ -27,7 +27,7 @@ class HakariOption {
 
   HakariOption({
     this.iter = 100,
-    this.emphasisAnsiColor = 20,
+    this.emphasisAnsiColor = 10,
     this.maxLineCharNum = 80,
     this.barAnsiColor = 30,
   });
