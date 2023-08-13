@@ -84,7 +84,7 @@ class Group {
   Future<void> printSummery() async {
     final len = benches.length;
     ansiColorDisabled = false;
-    AnsiPen greenPen = AnsiPen()..xterm(10);
+    AnsiPen greenPen = AnsiPen()..xterm(option.emphasisAnsiColor);
 
     if (len > 1) {
       debugPrint(
@@ -114,7 +114,7 @@ class Group {
                 .join();
 
         ansiColorDisabled = false;
-        AnsiPen greenBg = AnsiPen()..xterm(30, bg: true);
+        AnsiPen greenBg = AnsiPen()..xterm(option.barAnsiColor, bg: true);
         debugPrint('$name${greenBg(bar)}');
       }
 

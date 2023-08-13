@@ -54,7 +54,7 @@ class Bench {
     );
 
     ansiColorDisabled = false;
-    AnsiPen greenPen = AnsiPen()..xterm(10);
+    AnsiPen greenPen = AnsiPen()..xterm(option.emphasisAnsiColor);
 
     debugPrint('${greenPen(nameResult)}$averageResult$minMaxResult');
   }
